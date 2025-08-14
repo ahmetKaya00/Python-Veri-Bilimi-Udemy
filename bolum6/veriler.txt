@@ -1,0 +1,3 @@
+Ad,Yaş,Şehir
+Ahmet,38,İstanbul
+Mehmet,20,Adana
